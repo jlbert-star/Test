@@ -1,0 +1,1 @@
+Select * from [silver].[crm_prd_info]
